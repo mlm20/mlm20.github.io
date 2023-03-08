@@ -1,30 +1,32 @@
 {
-    "name": "mlm20.github.io",
+    "name": "my-app",
     "version": "0.1.0",
-    "homepage": "https://mlm20.github.io/",
+    "homepage": "http://mlm20.github.io/",
     "private": true,
     "dependencies": {
+        "@chakra-ui/react": "^2.5.1",
+        "@emotion/react": "^11.10.6",
+        "@emotion/styled": "^11.10.6",
         "@testing-library/jest-dom": "^5.16.5",
         "@testing-library/react": "^13.4.0",
-        "@testing-library/user-event": "^13.5.0",
+        "@testing-library/user-event": "^14.4.3",
+        "framer-motion": "^6.5.1",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
+        "react-icons": "^3.11.0",
         "react-scripts": "5.0.1",
         "web-vitals": "^2.1.4"
     },
     "scripts": {
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build",
         "start": "react-scripts start",
-        "predeploy" : "npm run build",
-        "deploy" : "gh-pages -d build",
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject"
     },
     "eslintConfig": {
-        "extends": [
-            "react-app",
-            "react-app/jest"
-        ]
+        "extends": "react-app"
     },
     "browserslist": {
         "production": [
@@ -39,8 +41,6 @@
         ]
     },
     "devDependencies": {
-        "eslint": "^8.35.0",
-        "eslint-plugin-react": "^7.32.2",
         "gh-pages": "^5.0.0"
     }
 }
