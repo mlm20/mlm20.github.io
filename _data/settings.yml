@@ -1,9 +1,9 @@
 #-------------------------------
 # Site Settings
-title: Baleon
-logo: "/images/logo.svg" # You can add own logo. For example '/images/logo.png'.
-logo_dark: "/images/logo-dark.svg"
-description: Baleon is a stylish and multifunctional theme for Jekyll
+title: Portfolio – Maximilian Matthews
+logo: "/images/logo.png" # You can add own logo. For example '/images/logo.png'.
+logo_dark: "/images/logo-dark.png"
+description: Portfolio site for Maximilian Matthews
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -27,34 +27,35 @@ menu_settings:
 cta_button:
   enable: true
   cta_button_link: "/contact/"
-  cta_button_text: Say Hello!
+  cta_button_text: Contact
 
 
 #-------------------------------
 # Author Settings
 author:
-  author_intro: Hey, I’m Kevin Jones
-  author_name: Kevin Jones
-  author_role: Product Designer
+  author_intro: Hey, I’m Maximilian Matthews
+  author_name: Maximilian Matthews
+  author_role: Design Engineer (MEng)
   author_avatar: /images/01.jpg
 
 
 #-------------------------------
 # Sidebar Section Settings
 sidebar:
-  sidebar_title: One Stop Daily <em>News,</em> <em>Article,</em> <em>Inspiration</em>. # You can add an 'em' element to highlight text.
-  sidebar_description: Welcome to a unique world of creativity and innovation! Here you'll find engaging articles, helpful tips, and captivating stories from the realms of design.
+  sidebar_title: Portfolio Site <em>Projects,</em> <em>Skills,</em> <em>Experience</em>. # You can add an 'em' element to highlight text.
+  sidebar_description: Welcome to my portfolio site! Here you'll find a selection of projects completed at University and in Industry, and a summary of my key skills and experience.
 
 
 # Social Links
 social:
-- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
-- {icon: "fa-brands fa-facebook", name: "Facebook", link: "https://facebook.com"}
-- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com"}
-- {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social"}
-- {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com"}
-- {icon: "fa-brands fa-spotify", name: "Spotify", link: "https://spotify.com"}
-- {icon: "fa-brands fa-vimeo-v", name: "Vimeo", link: "https://vimeo.com"}
+# - {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
+# - {icon: "fa-brands fa-facebook", name: "Facebook", link: "https://facebook.com"}
+- {icon: "fa-brands fa-linkedin-in", name: "LinkedIn", link: "https://www.linkedin.com/in/maximilian-matthews/"}
+- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com/mlm20"}
+# - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social"}
+# - {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com"}
+# - {icon: "fa-brands fa-spotify", name: "Spotify", link: "https://spotify.com"}
+# - {icon: "fa-brands fa-vimeo-v", name: "Vimeo", link: "https://vimeo.com"}
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-pinterest", name: "Pinterest", link: "https://pinterest.com"}
 # Other icons can be found at https://fontawesome.com/icons
@@ -158,7 +159,7 @@ mailchimp:
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your form_id
+  email: maxmatthews2048@gmail.com # Add your form_id
   description: Baleon comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
