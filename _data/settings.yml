@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
 title: Portfolio – Maximilian Matthews
-logo: "/images/logo.png" # You can add own logo. For example '/images/logo.png'.
-logo_dark: "/images/logo-dark.png"
+logo: "/images/logo.svg" # You can add own logo. For example '/images/logo.png'.
+logo_dark: "/images/logo-dark.svg"
 description: Portfolio site for Maximilian Matthews
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
@@ -27,7 +27,7 @@ menu_settings:
 cta_button:
   enable: true
   cta_button_link: "/contact/"
-  cta_button_text: Contact
+  cta_button_text: Say Hello!
 
 
 #-------------------------------
