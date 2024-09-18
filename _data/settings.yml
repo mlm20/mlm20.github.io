@@ -65,8 +65,50 @@ social:
 # Projects Settings
 projects:
   enable: true
-  projects_title: Product Design <em>Showcase</em> # You can add an 'em' element to highlight text.
-  projects_description: I present my top-tier projects, meticulously crafted with unwavering passion, simplicity, boundless creativity, and unparalleled attention to detail.
+  projects_title: Projects <em>Individual and Team</em> # You can add an 'em' element to highlight text.
+  projects_description: This is a selection of engineering, design, and business projects completed at university and in industry. These showcase the skills and experience I have developed.
+
+
+#-------------------------------
+# Skills Settings
+#   -- uses faq template
+faq:
+  enable: true
+  faq_title: Skills <em>Overview</em> # You can add an 'em' element to highlight text.
+  faq_description: An overview of relevant skills – developed through study, project work, and extracurricular activities. Click on each to find out more.
+
+faq_items:
+  - title: Computer-aided design (CAD)
+    description: Experience working in CAD and 3D rendering software incl. Solidworks, Fusion 360, Adobe Dimension, KeyShot.
+
+  - title: Mechatronics
+    description: Proficient in integrating mechanical systems with electronics and software to design, prototype, and control devices. Experienced in circuit design, sensor integration, actuator control, and microcontroller programming using Arduino, PlatformIO, MicroPython, and MATLAB. Skilled in signal processing, feedback control, and real-time programming, with hands-on experience in robotics, including ROS, kinematics, dynamics, and control algorithms.
+
+  - title: Full stack development
+    description: Experienced developing web applications on the front and backend, using HTML, CSS, JavaScript, Python, Node.js/Express.js, AWS. Skilled implementing high-level algorithms, developing data structures, reading/writing databases, accessing APIs, asynchronous programming, and developing responsive frontends.
+
+  - title: Adobe Creative Suite and Figma
+    description: Experienced using the Adobe Creative Suite incl. Illustrator, InDesign, Photoshop, Lightroom, Premiere Pro, and further software incl. Figma and Microsoft Office. Experienced doing graphic design, document/page layout, and video/image editing.
+
+  - title: Rapid prototyping (RP)
+    description: Experienced using the Rapid Prototyping paradigm to build, test, and iterate on physical products using technqiues such as 3D printing (FDM and SLA), laser cutting, cardboard, Arduino, foam models, breadboard circuits. Familar with using Figma to test digital products. 
+
+  - title: Engineering analysis
+    description: Proficient conducting engineering simulations in FEA and CFD software to test part durability and simulate mechanical movements. Experience using Ansys Granta for material selection.
+
+  - title: Data analysis
+    description: Experienced in exploring and analyzing small and large datasets using statistical methods and machine learning techniques. Skilled in descriptive and inferential statistics, data visualization, and applying machine learning algorithms like regression and classification. Proficient in using Python libraries incl. scikit-learn, NumPy, Pandas, Matplotlib, SciPy as well as MATLAB to solve practical problems and extract actionable insights from data.
+
+  - title: Innovation and design thinking
+    description: Skilled in applying human-centered design methodologies, combining creativity, user needs, and technical functionality to develop innovative solutions. Experienced in using design engineering tools such as prototyping, systems thinking, and stakeholder engagement to create meaningful, validated design outcomes. Confident in translating user insights into product specifications and iterating through the design process, from ideation to prototyping and testing.
+
+  - title: Project management and teamwork
+    description: Experienced working in multidisciplinary teams on multiple engineering projects, leading meetings, managing strict deadlines. Proficient using Gantt charts and Jira, and working in Agile teams.
+
+  - title: Languages and citizenship
+    description: Bilingual in English and German, and have working proficiency in French. Hold duel British and German (EU) citizenship.
+
+
 
 
 #-------------------------------
@@ -99,34 +141,6 @@ blog:
   enable: true
   blog_title: Latest <em>Articles</em> & <em>Publications</em> # You can add an 'em' element to highlight text.
   blog_description: Discover the latest industry news, insights, and trends in a few clicks.
-
-
-#-------------------------------
-# Faq (Frequently asked questions) Settings
-faq:
-  enable: true
-  faq_title: Questions? <em>Answers</em>. # You can add an 'em' element to highlight text.
-  faq_description: Find solutions to common queries here.
-
-faq_items:
-  - title: What are your main areas of expertise in product design?
-    description: My specialization includes user interface (UI) and user experience (UX) design, prototyping, as well as researching and testing user needs.
-
-  - title: Can you provide examples of your work?
-    description: Yes, on my website, you can find a portfolio with examples of my projects and designs.
-
-  - title: What is your experience with various platforms and devices?
-    description: I have extensive experience working with various platforms, including websites, mobile applications, tablets, and other devices.
-
-  - title: What tools and software do you use for work?
-    description: I work with tools such as Sketch, Adobe XD, Figma, InVision for creating designs and prototypes, and also use Jira and Trello for project management.
-
-  - title: How long does it take to develop a product design?
-    description: The development time depends on the complexity of the project. Usually, creating a product design takes from several weeks to several months.
-
-  - title: How can I contact you to discuss my project?
-    description: You can contact me through the contact form on my website or directly via email. I'm always open to new projects and ready to discuss your idea.
-
 
 #-------------------------------
 # Gallery Settings
