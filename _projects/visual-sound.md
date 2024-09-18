@@ -3,7 +3,7 @@ title: Visual Sound
 date: 2024-05-04 08:01:35 +0300
 subtitle: Mechatronics | Rapid Prototyping
 image: '/images/project-visual-sound.jpg'
-video_embed: https://vimeo.com/1010749773?share=copy
+video_embed: https://www.youtube.com/embed/A2rIJf8NS7I?si=Vkwpq4VhDp4xMswH
 ---
 In the dynamic world of design and development, creativity and innovation intertwine to shape the digital landscape. Design, with its essence of simplicity and elegance, serves as the foundation upon which every digital experience is built. From the sleek lines of a minimalist interface to the vibrant colors of a captivating brand identity, design captivates and engages users, guiding them through a journey of discovery and interaction.
 
