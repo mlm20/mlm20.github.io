@@ -1,9 +1,9 @@
 ---
-title: Beauty Care Website Design
+title: Visual Sound
 date: 2024-05-04 08:01:35 +0300
-subtitle: Development
-image: '/images/project-4.jpg'
-video_embed: https://www.youtube.com/embed/phiMxtqlFIY
+subtitle: Mechatronics | Rapid Prototyping
+image: '/images/project-visual-sound.jpg'
+video_embed: https://vimeo.com/1010749773?share=copy
 ---
 In the dynamic world of design and development, creativity and innovation intertwine to shape the digital landscape. Design, with its essence of simplicity and elegance, serves as the foundation upon which every digital experience is built. From the sleek lines of a minimalist interface to the vibrant colors of a captivating brand identity, design captivates and engages users, guiding them through a journey of discovery and interaction.
 
