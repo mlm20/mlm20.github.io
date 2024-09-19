@@ -68,4 +68,37 @@ Three iterations of the core mechanism were built and test, to ensure that the p
 
 Styrofoam and cardboard was used to develop and iterate on looks-like prototypes of the device casing and to test key aspects of the user experience points. Two foam prototypes of the casing were created, each was modified to enhance aesthetics and grip in the hand. One was taken forward to a CAD exploration with modified dimensions to meet the anthropometric needs.
 
-The shape of the handle was also explored using styrofoam. Anthropometric data was used to
+Anthropometric data was used to determine the width of the device, and the radius and width of the handle. Styrofoam was used to make prototypes of the handle, ensuring optimal ergonomics.
+
+Cardboard was used to create models for different attachment mechanisms for the device. These included attachments to the door, wall, and floor – allowing Tonal Go to be used in different orientations, thus training various muscles.
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/tonal-go-12.jpg" loading="lazy" alt="Project">
+    <img src="/images/tonal-go-13.jpg" loading="lazy" alt="Project">
+    <img src="/images/tonal-go-14.jpg" loading="lazy" alt="Project">
+    <img src="/images/tonal-go-15.jpg" loading="lazy" alt="Project">
+    <img src="/images/tonal-go-16.jpg" loading="lazy" alt="Project">
+    <img src="/images/tonal-go-17.jpeg" loading="lazy" alt="Project">
+  </div>
+  <em>Styrofoam and cardboard looks-like prototyping</em>
+</div>
+
+By combining the mechanisms built in technical prototyping, and the ergonomics/shape developed in looks-like prototyping, the final design was for Tonal Go was devised and a fully functional final prototype was built.
+
+***
+
+#### Packaging and user guide
+
+In addition to the Tonal Go device, packaging and an included user guide were developed. Packaging was designed to signal high quality and a premium feel, keep the device safe, have an intuitive unboxing experience, and display all legally required markings and information. It features a thick fiberboard box wrapped in black paper with the Tonal markings, a moulded wood pulp container tray, and accessory box.
+
+The user guide sits at the top of tray next to the device. It provides an overview of features and required safety information.
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/tonal-go-18.png" loading="lazy" alt="Project">
+    <img src="/images/tonal-go-19.png" loading="lazy" alt="Project">
+    <img src="/images/tonal-go-20.png" loading="lazy" alt="Project">
+  </div>
+  <em>Tonal Go packaging and user guide</em>
+</div>
