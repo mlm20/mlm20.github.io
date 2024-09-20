@@ -1,7 +1,7 @@
 ---
 title: Tonal Go
 date: 2024-05-12 08:01:35 +0300
-subtitle: Product Design
+subtitle: Design Engineering
 image: '/images/tonal-go-01.jpg'
 video_embed: https://www.youtube.com/embed/j1jGioHyLDk
 ---

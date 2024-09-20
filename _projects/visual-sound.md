@@ -1,7 +1,7 @@
 ---
 title: Visual Sound
 date: 2024-05-04 08:01:35 +0300
-subtitle: Mechatronics | Rapid Prototyping
+subtitle: Mechatronics
 image: '/images/project-visual-sound.jpg'
 video_embed: https://www.youtube.com/embed/A2rIJf8NS7I?si=Vkwpq4VhDp4xMswH
 ---
