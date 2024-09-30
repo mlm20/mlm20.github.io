@@ -2,7 +2,7 @@
 title: Visual Sound
 date: 2024-05-04 08:01:35 +0300
 subtitle: Mechatronics
-image: '/images/project-visual-sound.jpg'
+image: "/images/project-visual-sound.jpg"
 video_embed: https://www.youtube.com/embed/A2rIJf8NS7I?si=Vkwpq4VhDp4xMswH
 ---
 
@@ -22,7 +22,7 @@ Visual Sound represent these different frequency bands in real-time so people ca
   <em>Visual Sound / Hero Images</em>
 </div>
 
-***
+---
 
 ## How it works
 
@@ -45,14 +45,15 @@ A rack and pinion mechanism is used to move the 5 frequency bars up and down. Th
 The audio input pin is sampled (a snapshot is taken) at 40 kHz. The Arduino then repeatedly performs a Fast Fourier Transform (FFT) on the latest sample, this calculates the magnitude of the signal’s constituent frequencies. Intensities for each of the 5 frequency bands are then obtained by adding together the calculated FFT magnitudes of all the frequencies in a respective range. The servo motors are adjusted according to the magnitudes at a regular interval.
 
 ![Visual Sound system diagram](/images/visual-sound-system.png)
-*Visual Sound / System Diagram*
+_Visual Sound / System Diagram_
 
-***
+---
 
 ## Project development
+
 #### Initial design
 
-Initially after brainstorming and getting inspiration from other audio-reactive Arduino projects, I came up with an initial design (see sketch). 
+Initially after brainstorming and getting inspiration from other audio-reactive Arduino projects, I came up with an initial design (see sketch).
 
 However upon reflection and discussing with my colleagues I realised that the rotary mechanism would involve unnecessary joints and moving parts, and that a rack and pinion mechanism would be better suited for my use case.
 
