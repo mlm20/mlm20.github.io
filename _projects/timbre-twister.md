@@ -42,11 +42,17 @@ First, I focused on creating a MVP using only MaxMSP. In the first iteration, I 
 ![WP1 (1)](/images/timbre-twister-03.jpg)
 _MaxMSP patch overview_
 
+---
+
 ![WP1 (2)](/images/timbre-twister-04.jpg)
 _Song and impulse response loading and Arduino data retrieval_
 
+---
+
 ![WP1 (3)](/images/timbre-twister-05.jpg)
 _Audio convolution in series_
+
+---
 
 ![WP1 (4)](/images/timbre-twister-06.jpg)
 _Mode selection and crossover implementation_
@@ -66,6 +72,8 @@ For the physical control unit, the goal was that it would be intuitive, fun and 
 
 ![WP2](/images/timbre-twister-08.jpg)
 _Building the control unit_
+
+---
 
 ![WP2](/images/timbre-twister-09.jpg)
 _Control unit code_

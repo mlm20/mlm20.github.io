@@ -15,8 +15,8 @@ menu_settings:
       url: '/'
     - title: 'Projects'
       url: '/projects/'
-    - title: 'Blog'
-      url: '/blog/'
+    # - title: 'Blog'
+      # url: '/blog/'
     - title: 'About'
       url: '/about/'
     - title: 'Elements'
@@ -43,7 +43,7 @@ author:
 # Sidebar Section Settings
 sidebar:
   sidebar_title: Portfolio Site <em>Projects,</em> <em>Skills,</em> <em>Experience</em>. # You can add an 'em' element to highlight text.
-  sidebar_description: Welcome to my portfolio! Here, you'll discover a range of projects from both my university studies and industry experience, along with an overview of my key skills and expertise.
+  sidebar_description: Welcome to my portfolio! Here, you'll find a range of projects from both my university studies and industry experience, along with an overview of my key skills and expertise.
 
 
 # Social Links
@@ -106,7 +106,7 @@ faq_items:
 #-------------------------------
 # Testimonials Settings
 testimonials:
-  enable: true
+  enable: false
   testimonials_title: Trusted by <em>Professionals</em> # You can add an 'em' element to highlight text.
   testimonials_description: Join our community of creative professionals where you can develop your talents and reach new heights in design.
 
@@ -130,7 +130,7 @@ testimonial-items:
 #-------------------------------
 # Blog Section Settings
 blog:
-  enable: true
+  enable: false
   blog_title: Latest <em>Articles</em> & <em>Publications</em> # You can add an 'em' element to highlight text.
   blog_description: Discover the latest industry news, insights, and trends in a few clicks.
 
@@ -154,7 +154,7 @@ gallery_images:
 #-------------------------------
 # Newsletter Settings
 mailchimp:
-  enable: true
+  enable: false
   mailchimp_title: Subscribe to Our <em>Newsletter</em> # You can add an 'em' element to highlight text.
   mailchimp_description: Join now and never miss out on our stuff again. Because you are worth it!
   mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
@@ -165,9 +165,8 @@ mailchimp:
 #-------------------------------
 # Contact Settings
 contact:
-  email: maxmatthews2048@gmail.com # Add your form_id
-  description: Baleon comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
-
+  email: xwpegzeq # Add your form_id
+  description: Feel free to reach out to me for any inquiries or collaboration opportunities in design engineering, sustainability, or innovative technology solutions. I look forward to connecting with you!
 # NOTE
 # Baleon theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
 
