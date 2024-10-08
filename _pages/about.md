@@ -1,23 +1,20 @@
 ---
 layout: page
-title: About <em>Me</em>
+title: About
 permalink: /about/
-image: '/images/100.jpg'
 ---
-Hello there! Welcome to my corner of the digital world. My name is Kevin, and I am a passionate Product Designer with a flair for crafting exceptional user experiences. I believe that design is not just about aesthetics but a powerful tool to make a positive impact on people’s lives. Beyond just aesthetics, I am deeply committed to designing for impact. Whether it’s improving daily routines, enhancing productivity, or fostering connections.
 
-> Design is not just what it looks like and feels like. Design is how it works.
-> <cite>Steve Jobs</cite>
+As a 2024 MEng graduate of Imperial College London, my expertise in design engineering allows me to integrate technology, design, and business to create products and technology that solve genuine problems.
 
-Curiosity drives me to explore the uncharted territories of design. I love pushing the boundaries and venturing into new design paradigms. As a perpetual learner, I stay updated with the latest industry trends, emerging technologies, and design methodologies, incorporating them into my work to deliver innovative and cutting-edge solutions.
+At Imperial College, I developed expertise in subjects such as physical computing, mechatronics, full-stack development, machine learning, human-centred design, innovation and entrepreneurship, and project management.
 
-I am a firm believer in giving back to the design community that has nurtured and supported me. I volunteer my time to mentor aspiring designers, participate in design forums, and contribute to open-source projects. Sharing knowledge and collaborating with fellow designers brings a sense of fulfillment and camaraderie.
+During a 6-month internship at REHAU New Ventures, the corporate venture builder of the REHAU Group, a €3.4B turnover global German Mittelstand company, I developed experience in entrepreneurial business and innovation management as well as agile project management. Living abroad in Germany helped me further develop my business language skills and cultural fluency.
 
-![Friends](/images/102.jpg)
-*Photo by [Jessica Felicio](https://unsplash.com/@jekafe) on [Unsplash](https://unsplash.com/photos/grayscale-photo-of-woman-standing-between-two-men-CT6G8Mz4grs)*
+I completed 11 team-based and 10 individual engineering projects throughout my MEng, gaining experience managing time, resources, and tight deadlines. I'm skilled at working with others to take projects from brief to deliverable through engineering processes, hardware and software prototyping, design, and validation. I quickly pick up and use new skills and software to meet project goals successfully.
 
-Design has been an incredible journey of growth and self-discovery for me. I am deeply grateful for every opportunity that has come my way, every challenge that has shaped my skills, and every success that has inspired me to aim higher. With humility and enthusiasm, I look forward to the next chapter in my design adventure.
+During my studies, I was elected Events Officer and later President of Imperial's LGBT society, leading a 12-member team, managing finances, and organising weekly events. I also served as Events Officer and DJ Tutor for Imperial's electronic music society, performing at London venues and teaching new members. I was awarded Union Colours for my contribution to student life.
 
-As a Product Designer, I see design challenges as exciting opportunities to find elegant solutions. I enjoy breaking down complex problems into manageable components, collaborating with cross-functional teams, and iterating through multiple design cycles to arrive at the most effective and user-friendly outcomes.
+After graduating in August 2024, I am looking for hardware and software engineering opportunities.
 
-***
+![Ideation session at REHAU New Ventures](/images/new-ventures-02.jpeg)
+*Ideation workshop at REHAU New Ventures*

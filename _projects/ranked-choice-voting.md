@@ -3,6 +3,7 @@ title: Ranked Voice Voting Calculator
 date: 2024-05-07 08:01:35 +0300
 subtitle: Development
 image: "/images/rcv-05.jpg"
+tags: [Coding]
 ---
 
 <div class="sidebar__social">
