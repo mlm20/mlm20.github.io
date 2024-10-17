@@ -35,14 +35,14 @@ cta_button:
 author:
   author_intro: Hey, I’m Maximilian Matthews
   author_name: Maximilian Matthews
-  author_role: Design Engineer (MEng)
+  author_role: Imperial College 2024 Engineering Graduate
   author_avatar: /images/01.jpg
 
 
 #-------------------------------
 # Sidebar Section Settings
 sidebar:
-  sidebar_title: Portfolio Site <em>Projects,</em> <em>Skills,</em> <em>Experience</em>. # You can add an 'em' element to highlight text.
+  sidebar_title: Portfolio Site # You can add an 'em' element to highlight text.
   sidebar_description: Welcome to my portfolio! Here, you'll find a range of projects from both my university studies and industry experience, along with an overview of my key skills and expertise.
 
 
@@ -57,7 +57,7 @@ social:
 # Projects Settings
 projects:
   enable: true
-  projects_title: Projects <em>Individual and Team</em> # You can add an 'em' element to highlight text.
+  projects_title: Projects # You can add an 'em' element to highlight text.
   projects_description: This is a selection of engineering, design, and business projects completed at university and in industry. These showcase the skills and experience I have developed.
 
 
@@ -66,7 +66,7 @@ projects:
 #   -- uses faq template
 faq:
   enable: true
-  faq_title: Skills <em>Overview</em> # You can add an 'em' element to highlight text.
+  faq_title: Skills # You can add an 'em' element to highlight text.
   faq_description: An overview of relevant skills – developed through study, project work, and extracurricular activities. Click on each to find out more.
 
 faq_items:
@@ -138,7 +138,7 @@ blog:
 # Gallery Settings
 gallery:
   enable: true
-  gallery_title: Profile <em>Summary</em> # You can add an 'em' element to highlight text.
+  gallery_title: Profile Summary # You can add an 'em' element to highlight text.
   gallery_description: As an MEng graduate of Imperial College London, my expertise in design engineering allows me to integrate technology, design, and business to create products and technology that solve genuine problems. After graduating in August 2024, I am looking for hardware and software engineering opportunities.
   gallery_caption:
 
