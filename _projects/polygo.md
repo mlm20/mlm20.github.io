@@ -1,6 +1,6 @@
 ---
 title: PolyGo
-date: 2024-05-16 08:01:35 +0300
+date: 2024-03-25 12:00:00 +0000
 subtitle: Product Design
 image: "/images/polygo-01.jpg"
 ---

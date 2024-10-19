@@ -1,6 +1,6 @@
 ---
 title: "FEA: Tandem Bicycle Frame"
-date: 2024-05-03 08:01:35 +0300
+date: 2022-05-04 12:00:00 +0000
 subtitle: Engineering Analysis
 image: "/images/tandem-01.png"
 ---

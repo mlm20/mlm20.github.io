@@ -1,6 +1,6 @@
 ---
 title: PrivatelyPromoted
-date: 2024-04-20 08:01:35 +0300
+date: 2023-03-08 12:00:00 +0000
 subtitle: Data systems
 image: "/images/privately-promoted-logo.png"
 video_embed: https://www.youtube.com/embed/VKp-ekAvNOY

@@ -1,6 +1,6 @@
 ---
 title: EasyJourney
-date: 2024-05-12 08:01:35 +0300
+date: 2022-12-14 12:00:00 +0000
 subtitle: Innovation and business
 image: '/images/easyjourney-05.png'
 ---

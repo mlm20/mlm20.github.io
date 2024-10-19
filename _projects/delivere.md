@@ -1,6 +1,6 @@
 ---
 title: DeliverE
-date: 2024-05-02 08:01:35 +0300
+date: 2021-12-13 12:00:00 +0000
 subtitle: Product-service systems
 image: "/images/delivere-01.png"
 video_embed: https://www.youtube.com/embed/1lCizE0BQqI
