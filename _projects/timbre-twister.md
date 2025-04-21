@@ -1,7 +1,7 @@
 ---
 title: TimbreTwister
 date: 2024-03-20 12:00:00 +0000
-subtitle: Prototyping
+subtitle: Engineering
 image: "/images/timbre-twister-01.jpg"
 ---
 

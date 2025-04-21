@@ -1,7 +1,7 @@
 ---
 title: EasyJourney
 date: 2022-12-14 12:00:00 +0000
-subtitle: Innovation and business
+subtitle: Product Design
 image: '/images/easyjourney-05.png'
 ---
 

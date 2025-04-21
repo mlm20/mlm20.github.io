@@ -1,7 +1,7 @@
 ---
 title: Ranked Voice Voting Calculator
 date: 2021-06-18 12:00:00 +0000
-subtitle: Development
+subtitle: Programming
 image: "/images/rcv-05.jpg"
 ---
 

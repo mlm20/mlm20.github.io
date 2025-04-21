@@ -1,7 +1,7 @@
 ---
 title: PrivatelyPromoted
 date: 2023-03-08 12:00:00 +0000
-subtitle: Data systems
+subtitle: System Design
 image: "/images/privately-promoted-logo.png"
 video_embed: https://www.youtube.com/embed/VKp-ekAvNOY
 ---

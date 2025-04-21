@@ -1,7 +1,7 @@
 ---
 title: DeliverE
 date: 2021-12-13 12:00:00 +0000
-subtitle: Product-service systems
+subtitle: System Design
 image: "/images/delivere-01.png"
 video_embed: https://www.youtube.com/embed/1lCizE0BQqI
 ---

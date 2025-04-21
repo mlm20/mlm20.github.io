@@ -27,23 +27,23 @@ menu_settings:
 cta_button:
   enable: true
   cta_button_link: "/contact/"
-  cta_button_text: Say Hello!
+  cta_button_text: Contact
 
 
 #-------------------------------
 # Author Settings
 author:
-  author_intro: Hey, I’m Maximilian Matthews
+  author_intro: Hey, I’m Maxi
   author_name: Maximilian Matthews
-  author_role: Imperial College 2024 Engineering Graduate
+  author_role: MEng Design Engineering @ Imperial
   author_avatar: /images/01.jpg
 
 
 #-------------------------------
 # Sidebar Section Settings
 sidebar:
-  sidebar_title: Portfolio Site # You can add an 'em' element to highlight text.
-  sidebar_description: Welcome to my portfolio! Here, you'll find a range of projects from both my university studies and industry experience, along with an overview of my key skills and expertise.
+  sidebar_title: Portfolio # You can add an 'em' element to highlight text.
+  sidebar_description: Welcome to my portfolio site! I've included an overview of my best engineering and design projects from university and industry, alongside key skills and expertise.
 
 
 # Social Links
@@ -58,7 +58,7 @@ social:
 projects:
   enable: true
   projects_title: Projects # You can add an 'em' element to highlight text.
-  projects_description: This is a selection of engineering, design, and business projects completed at university and in industry. These showcase the skills and experience I have developed.
+  projects_description: Discover select design, and business projects completed at university and in industry. Click on each to learn more.
 
 
 #-------------------------------
@@ -67,32 +67,32 @@ projects:
 faq:
   enable: true
   faq_title: Skills # You can add an 'em' element to highlight text.
-  faq_description: An overview of relevant skills – developed through study, project work, and extracurricular activities. Click on each to find out more.
+  faq_description: An overview of key skills developed through study, project work, and extracurricular activities. Click on each to learn more.
 
 faq_items:
   - title: Computer-aided design (CAD)
-    description: Experience working in CAD and 3D rendering software incl. Solidworks, Fusion 360, Adobe Dimension, KeyShot.
+    description: Experience working in CAD and 3D rendering software incl. SolidWorks, Fusion 360, Adobe Dimension, KeyShot.
 
   - title: Mechatronics
     description: Proficient in integrating mechanical systems with electronics and software to design, prototype, and control devices. Experienced in circuit design, sensor integration, actuator control, and microcontroller programming using Arduino, PlatformIO, MicroPython, and MATLAB. Skilled in signal processing, feedback control, and real-time programming, with hands-on experience in robotics, including ROS, kinematics, dynamics, and control algorithms.
 
-  - title: Full stack development
-    description: Experienced developing web applications on the front and backend, using HTML, CSS, JavaScript, Python, Node.js/Express.js, AWS. Skilled implementing high-level algorithms, developing data structures, reading/writing databases, accessing APIs, asynchronous programming, and developing responsive frontends.
-
-  - title: Adobe Creative Suite and Figma
-    description: Experienced using the Adobe Creative Suite incl. Illustrator, InDesign, Photoshop, Lightroom, Premiere Pro, and further software incl. Figma and Microsoft Office. Experienced doing graphic design, document/page layout, and video/image editing.
-
-  - title: Rapid prototyping (RP)
-    description: Experienced using the Rapid Prototyping paradigm to build, test, and iterate on physical products using technqiues such as 3D printing (FDM and SLA), laser cutting, cardboard, Arduino, foam models, breadboard circuits. Familar with using Figma to test digital products. 
-
   - title: Engineering analysis
     description: Proficient conducting engineering simulations in FEA and CFD software to test part durability and simulate mechanical movements. Experience using Ansys Granta for material selection.
 
+  - title: Rapid prototyping
+    description: Experienced using the Rapid Prototyping paradigm to build, test, and iterate on physical products using techniques such as 3D printing (FDM and SLA), laser cutting, cardboard, Arduino, foam models, breadboard circuits. Familiar with using Figma to test digital products. 
+
+  - title: Programming
+    description: Experienced developing web apps on the front and backend, using HTML, CSS, JavaScript, Python, and Node.js. Proficient working with APIs and databases, implementing high-level algorithms, developing data structures, and developing responsive frontends.
+
   - title: Data analysis
-    description: Experienced in exploring and analyzing small and large datasets using statistical methods and machine learning techniques. Skilled in descriptive and inferential statistics, data visualization, and applying machine learning algorithms like regression and classification. Proficient in using Python libraries incl. scikit-learn, NumPy, Pandas, Matplotlib, SciPy as well as MATLAB to solve practical problems and extract actionable insights from data.
+    description: Experienced in exploring and analysing small and large datasets using statistical methods and machine learning techniques. Skilled in descriptive and inferential statistics, data visualization, and applying machine learning algorithms like regression and classification. Proficient in using Python libraries incl. scikit-learn, NumPy, Pandas, Matplotlib, SciPy as well as MATLAB to solve practical problems and extract actionable insights from data.
+
+  - title: Adobe Creative Suite and Figma
+    description: Experienced using the Adobe Creative Suite incl. Illustrator, InDesign, Photoshop, Lightroom, Premiere Pro, and further software incl. Figma and Microsoft Office. Experienced in UI/UX and interaction design.
 
   - title: Innovation and design thinking
-    description: Skilled in applying human-centered design methodologies, combining creativity, user needs, and technical functionality to develop innovative solutions. Experienced in using design engineering tools such as prototyping, systems thinking, and stakeholder engagement to create meaningful, validated design outcomes. Confident in translating user insights into product specifications and iterating through the design process, from ideation to prototyping and testing.
+    description: Skilled in applying human-centred design methodologies, combining creativity, user needs, and technical functionality to develop innovative solutions. Experienced in using design engineering tools such as prototyping, systems thinking, and stakeholder engagement to create meaningful, validated design outcomes. Confident in translating user insights into product specifications and iterating through the design process, from ideation to prototyping and testing.
 
   - title: Project management and teamwork
     description: Experienced working in multidisciplinary teams on multiple engineering projects, leading meetings, managing strict deadlines. Proficient using Gantt charts and Jira, and working in Agile teams.
@@ -138,10 +138,8 @@ blog:
 # Gallery Settings
 gallery:
   enable: true
-  gallery_title: Profile Summary # You can add an 'em' element to highlight text.
-  gallery_description: As an MEng graduate of Imperial College London, my expertise in design engineering allows me to integrate technology, design, and business to create products and technology that solve genuine problems. After graduating in August 2024, I am looking for hardware and software engineering opportunities.
-  gallery_caption:
-
+  gallery_title: About # You can add an 'em' element to highlight text.
+  gallery_description: Drawing on my MEng in Design Engineering from Imperial College London and practical industry experience, I integrate technology, design, and engineering principles to develop products and technology that solve genuine problems. My expertise spans mechanical engineering, mechatronics, and industrial design, applied through extensive project work in hardware and software prototyping and design validation.
 gallery_images:
   - alt: 'Teamwork'
     url: '/images/profile-01.jpg'
@@ -166,7 +164,7 @@ mailchimp:
 # Contact Settings
 contact:
   email: xwpegzeq # Add your form_id
-  description: Feel free to reach out to me for any inquiries or collaboration opportunities in design engineering, sustainability, or innovative technology solutions. I look forward to connecting with you!
+  description: Don't hesitate to reach out to me for any questions or inquiries, I look forward to connecting with you!
 # NOTE
 # Baleon theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
 

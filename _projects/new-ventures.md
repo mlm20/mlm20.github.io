@@ -1,7 +1,7 @@
 ---
 title: Venture building placement
 date: 2023-09-11 12:00:00 +0000
-subtitle: Innovation and business
+subtitle: Placement
 image: "/images/new-ventures-01.jpeg"
 ---
 

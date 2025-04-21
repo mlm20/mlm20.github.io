@@ -1,7 +1,7 @@
 ---
 title: Visual Sound
 date: 2021-12-06 12:00:00 +0000
-subtitle: Mechatronics
+subtitle: Engineering
 image: "/images/project-visual-sound.jpg"
 video_embed: https://www.youtube.com/embed/A2rIJf8NS7I?si=Vkwpq4VhDp4xMswH
 ---
