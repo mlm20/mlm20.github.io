@@ -23,6 +23,12 @@
 .section__description {
   margin-bottom: 0;
   color: var(--text-alt-color);
+
+  /* Reduce spacing between paragraphs inside section__description */
+  p {
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
 }
 
 .section__navigation {

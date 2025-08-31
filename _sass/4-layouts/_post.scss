@@ -192,6 +192,11 @@
       pointer-events: none;
       user-select: none;
     }
+
+    p {
+      margin-top: 0;
+      margin-bottom: 20px;
+    }
   }
 
   @media (max-width: $desktop) {

@@ -33,17 +33,17 @@ cta_button:
 #-------------------------------
 # Author Settings
 author:
-  author_intro: Hey, I’m Maxi
+  author_intro: Hey there, I'm Max!
   author_name: Maximilian Matthews
-  author_role: MEng Design Engineering @ Imperial
+  author_role: Design Engineer @ Terra API (YC W21)
   author_avatar: /images/01.jpg
 
 
 #-------------------------------
 # Sidebar Section Settings
 sidebar:
-  sidebar_title: Portfolio # You can add an 'em' element to highlight text.
-  sidebar_description: Welcome to my portfolio site! I've included an overview of my best engineering and design projects from university and industry, alongside key skills and expertise.
+  sidebar_title: Design Engineering Portfolio # You can add an 'em' element to highlight text.
+  sidebar_description: Welcome to my portfolio, thanks for taking a look! You'll find my favourite projects I completed at university and in industry, alongside key skills.
 
 
 # Social Links
@@ -58,7 +58,7 @@ social:
 projects:
   enable: true
   projects_title: Projects # You can add an 'em' element to highlight text.
-  projects_description: Discover select design, and business projects completed at university and in industry. Click on each to learn more.
+  projects_description: Discover my favourite design and engineering projects from university and industry.
 
 
 #-------------------------------
@@ -70,6 +70,15 @@ faq:
   faq_description: An overview of key skills developed through study, project work, and extracurricular activities. Click on each to learn more.
 
 faq_items:
+  - title: Product & UX Design
+    description: Experienced in user research, wireframing, prototyping, and user testing to create intuitive and user-friendly digital products. Skilled in using Figma to create pixel-perfect user interfaces, interaction design, and usability testing.
+
+  - title: Frontend development
+    description: Proficient in developing responsive and accessible web applications using HTML, CSS, JavaScript, React, Next.js, and Tailwind CSS. Experienced in working with APIs, databases, and version control systems like Git. Skilled in implementing headless CMS like Strapi to manage dynamic content.
+
+  - title: Innovation and design thinking
+    description: Skilled in applying human-centred design methodologies, combining creativity, user needs, and technical functionality to develop innovative solutions. Experienced in using design engineering tools such as prototyping, systems thinking, and stakeholder engagement to create meaningful, validated design outcomes. Confident in translating user insights into product specifications and iterating through the design process, from ideation to prototyping and testing.
+
   - title: Computer-aided design (CAD)
     description: Experience working in CAD and 3D rendering software incl. SolidWorks, Fusion 360, Adobe Dimension, KeyShot.
 
@@ -82,17 +91,11 @@ faq_items:
   - title: Rapid prototyping
     description: Experienced using the Rapid Prototyping paradigm to build, test, and iterate on physical products using techniques such as 3D printing (FDM and SLA), laser cutting, cardboard, Arduino, foam models, breadboard circuits. Familiar with using Figma to test digital products. 
 
-  - title: Programming
-    description: Experienced developing web apps on the front and backend, using HTML, CSS, JavaScript, Python, and Node.js. Proficient working with APIs and databases, implementing high-level algorithms, developing data structures, and developing responsive frontends.
-
   - title: Data analysis
     description: Experienced in exploring and analysing small and large datasets using statistical methods and machine learning techniques. Skilled in descriptive and inferential statistics, data visualization, and applying machine learning algorithms like regression and classification. Proficient in using Python libraries incl. scikit-learn, NumPy, Pandas, Matplotlib, SciPy as well as MATLAB to solve practical problems and extract actionable insights from data.
 
   - title: Adobe Creative Suite and Figma
     description: Experienced using the Adobe Creative Suite incl. Illustrator, InDesign, Photoshop, Lightroom, Premiere Pro, and further software incl. Figma and Microsoft Office. Experienced in UI/UX and interaction design.
-
-  - title: Innovation and design thinking
-    description: Skilled in applying human-centred design methodologies, combining creativity, user needs, and technical functionality to develop innovative solutions. Experienced in using design engineering tools such as prototyping, systems thinking, and stakeholder engagement to create meaningful, validated design outcomes. Confident in translating user insights into product specifications and iterating through the design process, from ideation to prototyping and testing.
 
   - title: Project management and teamwork
     description: Experienced working in multidisciplinary teams on multiple engineering projects, leading meetings, managing strict deadlines. Proficient using Gantt charts and Jira, and working in Agile teams.
@@ -139,7 +142,26 @@ blog:
 gallery:
   enable: true
   gallery_title: About # You can add an 'em' element to highlight text.
-  gallery_description: Drawing on my MEng in Design Engineering from Imperial College London and practical industry experience, I integrate technology, design, and engineering principles to develop products and technology that solve genuine problems. My expertise spans mechanical engineering, mechatronics, and industrial design, applied through extensive project work in hardware and software prototyping and design validation.
+  gallery_description: |
+    Hey there, I'm Max! I'm an engineering (MEng) graduate from Imperial College London and currently work as Design Engineer at Terra API (YC W21) in London.
+
+
+    I work at the intersection of engineering and design to conceptualise, design, and ship world-class products that are a joy to use, are technically sound, and solve real problems.
+
+
+    At Terra most of my time is split between product design and frontend development. I work fully end-to-end, starting by understanding user needs, conceptualising solutions (I'm a big fan of pen and paper), creating pixel-perfect designs in Figma, and finally building and shipping frontend code using Next.js and Tailwind CSS. 
+
+
+    I graduated with an MEng in Design Engineering from Imperial College. There, I completed 11 team-based and 10 individual engineering and design projects, covering areas including mechanical design (CAD), software development (mostly Web), rapid prototyping (laser cutting, 3D printing, workshop skills, etc.), mechatronics (Esp32, Arduino, etc.), and UX and system design (Figma). 
+
+
+    At Imperial I was also very active in student life (awarded Union Colours). I was elected President and Events Officer of Imperial's LGBTQ society, leading a 12-member team and running weekly events. I was also head of events and a DJ tutor for Imperial's electronic music society!
+
+
+    During my degree I did a 6 month internship in Germany at REHAU New Ventures, the corporate venture builder of a €3.4B turnover Mittelstand firm. The work was fully in German and I picked up a bunch of useful venture and entrepreneurship skills.
+
+
+    tl;dr, I like building cool stuff :)
 gallery_images:
   - alt: 'Teamwork'
     url: '/images/profile-01.jpg'

@@ -4,15 +4,19 @@ title: About
 permalink: /about/
 ---
 
-As a 2024 MEng graduate of Imperial College London, my expertise in design engineering allows me to integrate technology, design, and business to create products and technology that solve genuine problems.
+Hey there, I'm Max! I'm an engineering (MEng) graduate from Imperial College London and currently work as Design Engineer at Terra API (YC W21) in London.
 
-At Imperial College, I developed expertise in subjects such as physical computing, mechatronics, full-stack development, machine learning, human-centred design, innovation and entrepreneurship, and project management.
+I work at the intersection of engineering and design to conceptualise, design, and ship world-class products that are a joy to use, are technically sound, and solve real problems.
 
-During a 6-month internship at REHAU New Ventures, the corporate venture builder of the REHAU Group, a €3.4B turnover global German Mittelstand company, I developed experience in entrepreneurial business and innovation management as well as agile project management. Living abroad in Germany helped me further develop my business language skills and cultural fluency.
+At Terra most of my time is split between product design and frontend development. I work fully end-to-end, starting by understanding user needs, conceptualising solutions (I'm a big fan of pen and paper), creating pixel-perfect designs in Figma, and finally building and shipping frontend code using Next.js and Tailwind CSS. 
 
-I completed 11 team-based and 10 individual engineering projects throughout my MEng, gaining experience managing time, resources, and tight deadlines. I'm skilled at working with others to take projects from brief to deliverable through engineering processes, hardware and software prototyping, design, and validation. I quickly pick up and use new skills and software to meet project goals successfully.
+I graduated with an MEng in Design Engineering from Imperial College. There, I completed 11 team-based and 10 individual engineering and design projects, covering areas including mechanical design (CAD), software development (mostly Web), rapid prototyping (laser cutting, 3D printing, workshop skills, etc.), mechatronics (Esp32, Arduino, etc.), and UX and system design (Figma). 
 
-During my studies, I was elected Events Officer and later President of Imperial's LGBT society, leading a 12-member team, managing finances, and organising weekly events. I also served as Events Officer and DJ Tutor for Imperial's electronic music society, performing at London venues and teaching new members. I was awarded Union Colours for my contribution to student life.
+At Imperial I was also very active in student life (awarded Union Colours). I was elected President and Events Officer of Imperial's LGBTQ society, leading a 12-member team and running weekly events. I was also head of events and a DJ tutor for Imperial's electronic music society!
+
+During my degree I did a 6 month internship in Germany at REHAU New Ventures, the corporate venture builder of a €3.4B turnover Mittelstand firm. The work was fully in German and I picked up a bunch of useful venture and entrepreneurship skills.
+
+tl;dr, I like building cool stuff :)
 
 ![Ideation session at REHAU New Ventures](/images/new-ventures-02.jpeg)
 *Ideation workshop at REHAU New Ventures*

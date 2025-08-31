@@ -9,7 +9,7 @@
           <h2 class="section__title">{{ site.data.settings.gallery.gallery_title }}</h2>
         {% endif %}
         {% if site.data.settings.gallery.gallery_description %}
-          <p class="section__description">{{ site.data.settings.gallery.gallery_description }}</p>
+          <div class="section__description">{{ site.data.settings.gallery.gallery_description | markdownify }}</div>
         {% endif %}
       </div>
 

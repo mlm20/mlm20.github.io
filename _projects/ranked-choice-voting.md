@@ -8,7 +8,7 @@ image: "/images/rcv-05.jpg"
 <div class="sidebar__social">
   <ul class="sidebar__social__list list-reset">
     <li class="sidebar__social__item">
-      <a class="sidebar__social__link" href="https://ranked-choice-voting.glitch.me/" target="_blank" rel="noopener"
+      <a class="sidebar__social__link" href="https://ranked-choice-voting-web-app.vercel.app/" target="_blank" rel="noopener"
         aria-label="Website link"><i class="fa-solid fa-link"></i></a>
     </li>
     <li class="sidebar__social__item">
